@@ -645,7 +645,7 @@ h2{
         background: #fff;
         top: 0;
         right: 0;
-        width: 300px;
+        width: 400px;
         height: 100%;
         display: flex;
         justify-content: center;
@@ -696,11 +696,11 @@ h2{
     }
     
     .main .content h2{
-        font-size: 3.5em;
+        font-size: 3.2em;
     }
     
     .typewriter h2{
-        font-size: 3.5em;
+        font-size: 3.2em;
     }
     
     .animated-text h4{
